@@ -1,0 +1,6 @@
+Todo:
+
+1. Make the new activity for the log
+2. Create a storage system for the log info for each day
+3. Add time picker
+4. Modify CalendarView or make a new one to fill main activity and show workout on a day
